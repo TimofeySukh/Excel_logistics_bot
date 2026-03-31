@@ -1,0 +1,19 @@
+# Telegram bot framework (async)
+aiogram==3.13.1
+
+# Excel processing (Python 3.8 compatible)
+pandas==1.5.3
+openpyxl==3.1.2
+
+# Async HTTP client for downloading files (aiogram requires >=3.9.0,<3.11)
+aiohttp==3.9.0
+
+# Task scheduler
+apscheduler==3.10.4
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Async SQLite
+aiosqlite==0.19.0
+
